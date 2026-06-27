@@ -1,4 +1,5 @@
 📚 Online Book Store SQL Project
+
 📌 Project Overview
 
 This project is based on an Online Book Store Management System using SQL. It demonstrates how SQL can be used to manage bookstore data, perform data analysis, and generate meaningful insights from multiple related tables.
@@ -6,7 +7,9 @@ This project is based on an Online Book Store Management System using SQL. It de
 The project includes three CSV datasets:
 
 Books
+
 Customers
+
 Orders
 
 These tables are connected using common keys to perform various SQL operations such as filtering, joins, aggregation, grouping, and reporting.
